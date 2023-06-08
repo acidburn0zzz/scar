@@ -26,8 +26,8 @@
     "@babel/preset-env": "7.4.4",
     "@babel/register": "7.4.4",
     "eslint": "5.16.0",
-    "ghu": "0.21.0",
-    "mocha": "6.1.4",
+    "ghu": "0.28.0",
+    "mocha": "6.2.3",
     "nyc": "14.1.0"
   },
   "engines": {
